@@ -1,1 +1,2 @@
-console.log("proyecto 2")
+alert("hola")
+alert("mundo")
